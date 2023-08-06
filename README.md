@@ -1,2 +1,2 @@
-# Accenture Problem Solving Question Sheet for Codind Round
+# Accenture Problem Solving Question Sheet for Coding Round
 --by Rajat Mishra
